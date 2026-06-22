@@ -1,7 +1,7 @@
 # [ECCV 2026] MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing
 
 
-### [Project Page](https://zju3dv.github.io/MeGAS/) | [Paper](https://zju3dv.github.io/MeGAS/) | [Arxiv](https://zju3dv.github.io/MeGAS/) | [Video](https://zju3dv.github.io/MeGAS/)
+### [Project Page](https://zju3dv.github.io/MeGAS/) | [Paper](https://zju3dv.github.io/MeGAS/sources/pdf/ECCV26-MeGAS.pdf) | [Arxiv](https://zju3dv.github.io/MeGAS/) | [Video](https://www.youtube.com/watch?v=wAaGvaGSkGU)
 
 > [MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing](https://zju3dv.github.io/MeGAS/), \
 > Zesong Yang*, Yuanhang Lei*, Liyuan Cui, Yihang Chen, Jiaer Huang, Boming Zhao, Peter Yichen Chen, Hujun Bao, Zhaopeng Cui†
