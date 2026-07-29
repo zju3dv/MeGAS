@@ -27,7 +27,7 @@ Some codes are modified from [PhysGaussian](https://github.com/XPandora/PhysGaus
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{yang2025megas,
+@inproceedings{yang2026megas,
  title={MeGAS : Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing},
  author={Yang, Zesong and Lei, Yuanhang and Cui, Liyuan and Chen, Yihang and Huang, Jiaer and Zhao, Boming and Chen, Peter Yichen and Bao, Hujun and Cui, Zhaopeng},
  booktitle={European Conference on Computer Vision (ECCV)},
