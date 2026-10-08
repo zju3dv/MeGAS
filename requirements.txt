@@ -1,0 +1,13 @@
+# Install PyTorch matching your CUDA version first (tested: torch 2.0, CUDA 12.4)
+warp-lang==1.7.2
+pyhocon==0.3.61
+# torch 2.0 is built against NumPy 1.x
+numpy<2.0
+scipy
+plyfile
+trimesh
+open3d
+opencv-python
+matplotlib
+Pillow
+dearpygui
